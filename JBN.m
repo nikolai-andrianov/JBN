@@ -74,7 +74,6 @@ PV_inj = PV_inj(ind);
 fokro = fokro(ind);
 
 % Water saturation at the outlet
-%Swo = Sw_aver(1:end-1) - (fo .* PV_inj(1:end-1));
 Swo = Sw_aver - (fo .* PV_inj);
 
 % krw/kro = fw/fo * muw/muo
