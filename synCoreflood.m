@@ -8,7 +8,7 @@ function synCoreflood
 % 
 % Numerically, the sample is represented with a 1D geometry with constant 
 % porosity and permeability in all grid blocks. Both water and oil are
-% considered to be incompressible fluids with constant viscosities. Corey
+% considered to be incompressible fluids with constant viscosities. 
 % The relative permebility functions are taken in the Brooks-Corey form;
 % zero capillary pressure is used.
 %
