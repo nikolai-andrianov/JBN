@@ -3,7 +3,7 @@
 ## Estimating the two-phase relative permeabilities from unsteady-state core flooding data
 
  
-This repository contains supplementary materials to the paper[^fn1] for setting up and running a core flooding simulation using [MRST](https://www.sintef.no/projectweb/mrst/), estimating the relative permeabilities with the JBN method[^fn2], and for comparing the results with the groud truth data.
+This repository contains supplementary materials to the paper[^fn1] for setting up and running a core flooding simulation using [MRST](https://www.sintef.no/projectweb/mrst/), estimating the relative permeabilities with the JBN method[^fn2], and for comparing the results with the ground truth data.
 
 ![True vs JBN relative permeabilities](./rel_perm_jbn.png)
 
